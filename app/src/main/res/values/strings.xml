@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Figures</string>
+    <string name="notifyTitle">Enter the number of generated figures</string>
+    <string name="notifyTitle2">Enter the minimum number</string>
+    <string name="notifyTitle3">Enter the maximum number</string>
+</resources>
